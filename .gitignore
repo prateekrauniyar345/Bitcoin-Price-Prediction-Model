@@ -1,0 +1,21 @@
+# clean file
+clean.sh
+*.log
+
+# virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+._*

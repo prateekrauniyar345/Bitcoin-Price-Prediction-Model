@@ -4,5 +4,7 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-Flask
+Flask>=2.0
 h5py
+Werkzeug>=2.0
+joblib
